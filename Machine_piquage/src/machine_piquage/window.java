@@ -38,7 +38,7 @@ import org.jfree.data.xy.XYSeriesCollection;
 
 /**
  *
- * @author Mohamed
+ * @author Mohamed mokadem
  */
 public class window extends javax.swing.JFrame{
     Recup r = new Recup();
